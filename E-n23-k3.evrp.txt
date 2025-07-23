@@ -1,0 +1,45 @@
+--- Estatísticas das Execuções do AG Avançado (Permutação) ---
+Instância: E-n23-k3.evrp
+Semente Mestra do Experimento: 21
+Número de Execuções: 20
+Número de Veículos: 1
+Dimensão (N): 23
+Número máximo de avaliações por execução: 575000
+Tamanho da População: 100
+Taxa de Mutação: 0.02
+Crossover: Cycle Crossover
+Mutação: Inversion Mutation
+Seleção: Torneio (k=9)
+Representação: Permutação
+Restrições de Capacidade/Bateria: NÃO CONSIDERADAS
+
+Resultados das Distâncias Individuais:
+  Execução 1: 476.95
+  Execução 2: 470.06
+  Execução 3: 476.95
+  Execução 4: 490.78
+  Execução 5: 476.95
+  Execução 6: 482.72
+  Execução 7: 482.72
+  Execução 8: 476.95
+  Execução 9: 482.72
+  Execução 10: 470.06
+  Execução 11: 490.78
+  Execução 12: 496.09
+  Execução 13: 479.50
+  Execução 14: 470.06
+  Execução 15: 482.72
+  Execução 16: 554.97
+  Execução 17: 476.95
+  Execução 18: 493.64
+  Execução 19: 496.89
+  Execução 20: 490.78
+
+--- Resumo Estatístico ---
+Média das Distâncias: 485.96
+Desvio Padrão das Distâncias: 18.30
+Valor Máximo da Distância: 554.97
+Valor Mínimo da Distância: 470.06
+
+Valor Ótimo (do arquivo): 571.94
+Diferença percentual média em relação ao valor ótimo: -17.81%
